@@ -1,0 +1,1052 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "theme": {
+      "name": "purity",
+      "title": "PurityM",
+      "styling": {},
+      "titlePreset": "Virtual Revolution",
+      "nameSelectPreset": "article",
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "name": "Keramik Perdacher",
+    "versionFirst": "4.12.3",
+    "siteFonts": [],
+    "imageResize": true,
+    "uniqCompNum": 28,
+    "versionPublish": "4.12.3",
+    "screenshot": "screenshot.png",
+    "favicon": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "witsec-language": false,
+    "witsec-mailform": false,
+    "witsec-white-label": false
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home ",
+        "meta_descr": "Töpferei und Kachelofen",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Fotos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/adnjfbnasdopgk-265x85.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Keramik Perdacher</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-c",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161924612-cover-2000x1500.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Keramik Perdacher",
+          "text": "Deine Töpferei in Keutschach.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">F</a> ",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-d"
+        },
+        {
+          "_params": {
+            "showTitles": true,
+            "showCaptions": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title1": "15 Minuten",
+          "caption1": "Die Töpferei ist nur 15 Minuten von der Landeshauptstadt Klagenfurt entfernt. Im Vier-Seental Keutschach.",
+          "title2": "Seit 1908",
+          "caption2": "Generationenbetrieb seit über 100 Jahren. Handwerskunst mit Einflüssen aus verschiedenen Jahrzehnten.&nbsp;",
+          "title3": "Sortiment",
+          "caption3": "Das Angebot reicht von Reindlingsformen bis hin zu verschiedensten Dekoartikeln. Sonderanfertigungen sind jederzeit möglich.",
+          "title4": "Qualität",
+          "caption4": "Durch die Kombination von eigenem Ton und weitergegebenen Wissen, entstehen Unikate mit Wiedererkennungswert.&nbsp;",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-8"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/ydgasbh-746x498.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#FFF8E0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Wie entstehen Kacheln?",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Eine Moderatorin vom Fernsehen durfte einen Tag mit Thomas Perdacher verbringen. In diesen kuzen Clip führt er gerade vor, wie seine selbstgemachten Kacheln entstehen.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://www.servustv.com/videos/aa-1zr92dbyw2512/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Schau es dir an</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-b"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Qualität aus Keutschach",
+          "meta": "Thomas Perdacher",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-6"
+        },
+        {
+          "text": "<p>Handgefertigte Keramik aus Naturton. Generationenbetrieb mit Wiedererkennungswert<span style=\"font-size: 1.25rem;\">. Thomas Perdacher, Töpfer - und Hafnermeister aus Höflein.</span></p><p><span style=\"font-size: 1.25rem;\">Wunschanfertigungen auf Anfrage unter: &nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">Kachelöfen: Ideen Verwirklichung trifft auf individuelle Arbeitsweise. Traditionelles verbindet sich mit Modernem&nbsp;</span></p><p><span style=\"font-size: 1.25rem;\">&nbsp;</span><span style=\"font-size: 1.25rem;\">Werkstattbesichtigung und Workshops für Kindergruppen</span></p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-7"
+        },
+        {
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161931472-cover-1400x1050.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Einzigartige Qualität",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-8",
+          "_styles": {
+            "DIV": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "text": "Besichtigung des Shops ist jederzeit möglich. Ausstellungsstücke wie Reindlingsformen, Teller, Tassen, Dekoration und Vasen vor Ort. Werfen Sie einen Blick auf unsere Schätzen und verlieben Sie sich in die Vielfalt der Keramik.&nbsp;",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-9"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "<iframe src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2741.895065031785!2d14.215677515595447!3d46.58931177913042!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477077260ebc8513%3A0xfd3c1f50ec94106!2sT%C3%B6pferei%20Perdacher!5e0!3m2!1sde!2sat!4v1588268906254!5m2!1sde!2sat\" width=\"600\" height=\"450\" frameborder=\"0\" style=\"border:0;\" allowfullscreen=\"\" aria-hidden=\"false\" tabindex=\"0\"></iframe>",
+              "placeId": "iframe",
+              "state": "ok"
+            }
+          },
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-9"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#dfe5f1",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "twitter": true,
+            "google": true
+          },
+          "text": "Teile diese Seite",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-b"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Created by xxeperxx",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/adnjfbnasdopgk-265x85.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "töpferei, perdacher, thomas, keutschach, see, höflein, töpferei",
+              "title": "Töpferei Perdacher"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Addresse</strong><br>\nHöflein 27<br>\n9074 Keutschach<br>Kärnten, Österreich",
+          "text2": "<b>Kontakt</b><br>\nE-Mail: <a href=\"mailto:keramikperdacher@gmail.com\">keramikperdacher@gmail.com</a><br>Tel.: <a href=\"tel:+43 664 49584146\">+43 664 49584146</a><br>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"page2.html\">Impressum</a></li><li><a href=\"page3.html\">Datenschutz</a></li><li><a href=\"page4.html\" class=\"text-warning\">Web-Dev</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-c"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Fotos",
+        "order": 1
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "left",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/pano-20200408-161942-2000x1000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff8e0",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#ffffff",
+            "overlayOpacity": 0.5
+          },
+          "title": "Fotos",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\">For MAC</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-5"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/00000img-00000-burst20200408161758512-cover-2000x1500.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161912231-cover-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161623209-cover-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20200408-161841-2000x1500.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\">For Windows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-secondary-outline\" href=\"https://mobirise.com\">For Mac</a>",
+                "overlay": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-6"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "bgColor": "#efefef",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/pano-20200408-162750-2000x2113.jpeg",
+                "thumb": "@PROJECT_PATH@/assets/images/pano-20200408-162750-2000x2113-800x600.jpeg",
+                "alt": "höflein, keutschach, wörthersee, keutschachersee, töpferei, keramik, pyramidenkogel",
+                "title": "Töpferei und Zimmervermietung Perdacher",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408162444979-cover-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408162444979-cover-2000x1500-800x600.jpg",
+                "alt": "perdacher, vase, keutschach, kärnten, töpferei, pyramiedenkogel, höflein, wörthersee, klagenfurt, keutschach",
+                "title": "Töpfereiprodukte aus eigener Erzeugung",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161931472-cover-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161931472-cover-2000x1500-800x600.jpg",
+                "alt": "perdacher, tasse, keutschach, kärnten, töpferei, pyramiedenkogel, höflein, wörthersee, klagenfurt, keutschach",
+                "title": "Töpfereiprodukte aus Kärnten",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161807082-cover-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161807082-cover-2000x1500-800x600.jpg",
+                "alt": "perdacher, ton, keutschach, kärnten, töpferei, pyramiedenkogel, höflein, wörthersee, klagenfurt, keutschach",
+                "title": "Töpferei Perdacher",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161912231-cover-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161912231-cover-2000x1500-800x600.jpg",
+                "alt": "perdacher, tasse, ostern, dekoration, keutschach, kärnten, töpferei, pyramiedenkogel, höflein, wörthersee, klagenfurt, keutschach",
+                "title": "Osterdekorationen aus Keutschach",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161924612-cover-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161924612-cover-2000x1500-800x600.jpg",
+                "alt": "perdacher, vase, keutschach, kärnten, töpferei, pyramiedenkogel, höflein, wörthersee, klagenfurt, keutschach",
+                "title": "Töpferei Perdacher in Kärnten",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/00000img-00000-burst20200408161758512-cover-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/00000img-00000-burst20200408161758512-cover-2000x1500-800x600.jpg",
+                "alt": "perdacher, tasse, keutschach, kärnten, töpferei, pyramiedenkogel, höflein, wörthersee, klagenfurt, keutschach",
+                "title": "Souveniers aus Kärnten",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/00100lrportrait-00100-burst20200408161750734-cover-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/00100lrportrait-00100-burst20200408161750734-cover-2000x1500-800x600.jpg",
+                "alt": "perdacher, vase, keutschach, kärnten, töpferei, pyramiedenkogel, höflein, wörthersee, klagenfurt, keutschach",
+                "title": "Töpferei Perdacher in Höflein",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/00100lrportrait-00100-burst20200408162706736-cover-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/00100lrportrait-00100-burst20200408162706736-cover-2000x1500-800x600.jpg",
+                "alt": "perdacher, vase, keutschach, kärnten, töpferei, pyramiedenkogel, höflein, wörthersee, klagenfurt, keutschach, blume, höflein",
+                "title": "Töpferei Perdacher",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161623209-cover-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/00100trportrait-00100-burst20200408161623209-cover-2000x1500-800x600.jpg",
+                "alt": "perdacher, vase, keutschach, kärnten, töpferei, pyramiedenkogel, höflein, wörthersee, klagenfurt, keutschach",
+                "title": "Töpfereiprodukte aus Keutschach",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20200408-161535-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200408-161535-2000x1500-800x600.jpg",
+                "alt": "perdacher, vase, keutschach, kärnten, töpferei, pyramiedenkogel, höflein, wörthersee, klagenfurt, keutschach, Geschäft",
+                "title": "Thomas Perdacher: Töpferei und Kachelofenerzeugung",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-20200408-161841-2000x1500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-20200408-161841-2000x1500-800x600.jpg",
+                "alt": "perdacher, vase, tasse, brotdose, keutschach, kärnten, töpferei, pyramiedenkogel, höflein, wörthersee, klagenfurt, keutschach",
+                "title": "Töpferei Perdacher in Kärnten",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-7"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/adnjfbnasdopgk-265x85.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "töpferei, perdacher, thomas, keutschach, see, höflein, töpferei",
+              "title": "Töpferei Perdacher"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Addresse</strong><br>\nHöflein 27<br>\n9074 Keutschach<br>Kärnten, Österreich",
+          "text2": "<b>Kontakt</b><br>\nE-Mail: <a href=\"mailto:keramikperdacher@gmail.com\">keramikperdacher@gmail.com</a><br>Tel.: <a href=\"tel:+43 664 49584146\">+43 664 49584146</a><br>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"page2.html\">Impressum</a></li><li><a href=\"page3.html\">Datenschutz</a></li><li><a href=\"page4.html\" class=\"text-warning\">Web-Dev</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-2"
+        },
+        {
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Fotos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/adnjfbnasdopgk-265x85.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Keramik Perdacher</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-c",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Created by xxeperxx",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "title": "Impressum",
+        "order": 2
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Fotos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/adnjfbnasdopgk-265x85.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Keramik Perdacher</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-d"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Impressum",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-h"
+        },
+        {
+          "text": "<p>Thomas Markus Perdacher</p><p>Höflein 27</p><p>9074 Keutschach</p><p>Österreich</p><p><br></p><p>Tel.: +43 4273 2454</p>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-i"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/adnjfbnasdopgk-265x85.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "töpferei, perdacher, thomas, keutschach, see, höflein, töpferei",
+              "title": "Töpferei Perdacher"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Addresse</strong><br>\nHöflein 27<br>\n9074 Keutschach<br>Kärnten, Österreich",
+          "text2": "<b>Kontakt</b><br>\nE-Mail: <a href=\"mailto:keramikperdacher@gmail.com\">keramikperdacher@gmail.com</a><br>Tel.: <a href=\"tel:+43 664 49584146\">+43 664 49584146</a><br>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"page2.html\">Impressum</a></li><li><a href=\"page3.html\">Datenschutz</a></li><li><a href=\"page4.html\" class=\"text-warning\">Web-Dev</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-e"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Created by xxeperxx",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "title": "Datenschutz",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Fotos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/adnjfbnasdopgk-265x85.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Keramik Perdacher</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-j"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Datenschutz",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-k"
+        },
+        {
+          "text": "<p>\n</p><div><span style=\"font-size: 1.25rem;\">Der Betreiber dieser Seiten nimmt den Schutz Ihrer persönlichen Daten sehr ernst. Ich behandele Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften sowie dieser Datenschutzerklärung.&nbsp;</span><br></div><div>\n</div><div>Die Nutzung meiner Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf meinen Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder E-Mail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.\n</div><div>\n</div><div>\n</div><div>Ich weise darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich.</div><div><br></div><div>\r</div><div>Google Webfonts\r</div><div>\r</div><div>Diese Seite verwendet zur Darstellung der Schrift sogenannte Webfonts. Diese werden von Google bereitgestellt http://www.google.com/webfonts/. Dazu lädt beim Aufrufen meiner Seite ihr Browser die benötigte Webfont in ihren Browsercache. Dies ist notwendig damit auch ihr Browser eine optisch verbesserte Darstellung unserer Texte anzeigen kann. Wenn ihr Browser diese Funktion nicht unterstützt, wird eine Standardschrift von ihrem Computer zur Anzeige genutzt. Weitergehende Informationen zu Google Webfonts finden sie unter https://developers.google.com/fonts/faq?hl=de-DE&amp;csw=1. Allgemeine Informationen zum Thema Datenschutz bei Google finden sie unter https://policies.google.com/privacy?hl=de-DE.\r</div><div>\r</div><div>Google Maps\r</div><div>\r</div><div>Diese Seite nutzt über eine API den Kartendienst Google Maps. Anbieter ist die Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA.\r</div><div>\r</div><div>Zur Nutzung der Funktionen von Google Maps ist es notwendig, Ihre IP Adresse zu speichern. Diese Informationen werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Der Anbieter dieser Seite hat keinen Einfluss auf diese Datenübertragung. \r</div><div>\r</div><div>Die Nutzung von Google Maps erfolgt im Interesse einer ansprechenden Darstellung unserer Online-Angebote und an einer leichten Auffindbarkeit der von uns auf der Website angegebenen Orte. Dies stellt ein berechtigtes Interesse im Sinne von Art. 6 Abs. 1 lit. f DSGVO dar. \r</div><div>\r</div><div>Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: \r</div><div>\r</div><div>https://policies.google.com/privacy?hl=de\r</div><div>\r</div><div>Google reCAPTCHA\r</div><div>\r</div><div>Ich binde die Funktion zur Erkennung von Spam-Bots, z.B. bei Eingaben in Onlineformularen (ReCAPTCHA) des Anbieters Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland, ein.\r</div><div>\r</div><div>Mehr Informationen zum Umgang mit Nutzerdaten finden Sie in der Datenschutzerklärung von Google: \r</div><div>\r</div><div>https://policies.google.com/privacy?hl=de\r</div><div>\r</div><div>Auskunft, Löschung, Sperrung\r</div><div>\r</div><div>Sie haben jederzeit das Recht auf unentgeltliche Auskunft über Ihre gespeicherten personenbezogenen Daten, deren Herkunft und Empfänger und den Zweck der Datenverarbeitung sowie ein Recht auf Berichtigung, Sperrung oder Löschung dieser Daten. Hierzu sowie zu weiteren Fragen zum Thema personenbezogene Daten können Sie sich jederzeit unter der im Impressum angegebenen Adresse an mich wenden.\r</div><div>\r</div><div>Server-Log-Files\r</div><div>\r</div><div>Der Provider der Seiten erhebt und speichert automatisch Informationen in so genannten Server-Log Files, die Ihr Browser automatisch an mich übermittelt. Dies sind:\r</div><div>\r</div><div>Browsertyp/ Browserversion\r</div><div>verwendetes Betriebssystem \r</div><div>Referrer URL\r</div><div>Hostname des zugreifenden Rechners\r</div><div>Uhrzeit der Serveranfrage\r</div><div>\r</div><div>Diese Daten sind nicht bestimmten Personen zuordenbar. Eine Zusammenführung dieser Daten mit anderen Datenquellen wird nicht vorgenommen. Ich behalten mir vor, diese Daten nachträglich zu prüfen, wenn mir konkrete Anhaltspunkte für eine rechtswidrige Nutzung bekannt werden.\r</div><div>\r</div><div>Cookies\r</div><div>\r</div><div>Die Internetseiten verwenden teilweise so genannte Cookies. Cookies richten auf Ihrem Rechner keinen Schaden an und enthalten keine Viren. Cookies dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen. Cookies sind kleine Textdateien, die auf Ihrem Rechner abgelegt werden und die Ihr Browser speichert.\r</div><div>\r</div><div>Die meisten der von uns verwendeten Cookies sind sogenannte „Session-Cookies“. Sie werden nach Ende Ihres Besuchs automatisch gelöscht. Andere Cookies bleiben auf Ihrem Endgerät gespeichert, bis Sie diese löschen. Diese Cookies ermöglichen es mir, Ihren Browser beim nächsten Besuch wiederzuerkennen.\r</div><div>\r</div><div>Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browser aktivieren. Bei der Deaktivierung von Cookies kann die Funktionalität dieser Website eingeschränkt sein.\r</div><div>\r</div><div>\r</div><div>Quellenangabe\r</div><div>\r</div><div>www.e-recht24.de\r</div><div><br></div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-l"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/adnjfbnasdopgk-265x85.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "töpferei, perdacher, thomas, keutschach, see, höflein, töpferei",
+              "title": "Töpferei Perdacher"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Addresse</strong><br>\nHöflein 27<br>\n9074 Keutschach<br>Kärnten, Österreich",
+          "text2": "<b>Kontakt</b><br>\nE-Mail: <a href=\"mailto:keramikperdacher@gmail.com\">keramikperdacher@gmail.com</a><br>Tel.: <a href=\"tel:+43 664 49584146\">+43 664 49584146</a><br>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"page2.html\">Impressum</a></li><li><a href=\"page3.html\">Datenschutz</a></li><li><a href=\"page4.html\" class=\"text-warning\">Web-Dev</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-m"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Created by xxeperxx",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "title": "Web-Dev",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "logo": false,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": true,
+            "collapsed": true,
+            "transparent": true,
+            "color": "#fff",
+            "hamburgerColor": "#000"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"page1.html\">Fotos</a></li> <li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"nav-link\" data-app-selector=\".nav-link\" href=\"https://mobirise.com\">Contact</a></li>",
+          "buttons": "<li class=\"nav-item\"><a data-app-btn=\"parent\" class=\"btn btn-secondary-outline\" data-app-selector=\".nav-item .btn\" href=\"https://mobirise.com\">Download</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/adnjfbnasdopgk-265x85.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-brand\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".navbar-brand\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Keramik Perdacher</a>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_styles": {
+            ".navbar-toggler": {
+              "color": "#000"
+            }
+          },
+          "_anchor": "menu-n"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Web-Developer",
+          "meta": "By John Smith posted July 30, 2015",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-o"
+        },
+        {
+          "text": "<p>\n</p><div>&nbsp;Bei Fragen zur Webseite wenden Sie sich bitte per Privatnachricht auf meiner Instagram Seite.</div><div>@xxeperxx</div>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#37383e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/adnjfbnasdopgk-265x85.png",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "töpferei, perdacher, thomas, keutschach, see, höflein, töpferei",
+              "title": "Töpferei Perdacher"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Addresse</strong><br>\nHöflein 27<br>\n9074 Keutschach<br>Kärnten, Österreich",
+          "text2": "<b>Kontakt</b><br>\nE-Mail: <a href=\"mailto:keramikperdacher@gmail.com\">keramikperdacher@gmail.com</a><br>Tel.: <a href=\"tel:+43 664 49584146\">+43 664 49584146</a><br>",
+          "text3": "<strong>Links</strong><ul><li><a href=\"page2.html\">Impressum</a></li><li><a href=\"page3.html\">Datenschutz</a></li><li><a href=\"page4.html\" class=\"text-warning\">Web-Dev</a></li></ul>",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-q"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/photo-3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#26272c",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Created by xxeperxx",
+          "alias": "purity/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r"
+        }
+      ]
+    }
+  }
+}
